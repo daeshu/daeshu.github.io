@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "no-style-please"
   spec.version       = "0.3.1"
-  spec.authors       = ["Riccardo Graziosi"]
-  spec.email         = ["riccardo.graziosi97@gmail.com"]
+  spec.authors       = ["Daeshu"]
+  spec.email         = ["daniel@escobar.eu.org"]
 
   spec.summary       = "A (nearly) no-CSS, fast, minimalist Jekyll theme."
   spec.homepage      = "https://github.com/riggraz/no-style-please"
