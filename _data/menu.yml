@@ -8,8 +8,8 @@ entries:
 
   - title: publicaciones recientes
     post_list:
-      limit: 10
+      limit: 8
       show_more: true
-      show_more_text: Ver publicaciones anteriores...
+      show_more_text: Ver todas las publicaciones...
       show_more_url: archive.html
   
