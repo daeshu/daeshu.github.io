@@ -1,8 +1,8 @@
 title: ESCOBAR, blog!
 author: Escobar
 email: info@escobar.eu.org
-url: https://daeshu.github.io/ns # root address of the site
-baseurl: "/ns" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: https://daeshu.github.io/ # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: >
   Algunos apuntes.
 
@@ -15,7 +15,7 @@ theme: no-style-please # if you are using GitHub Pages, change it to remote_them
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "Atrás" # customize text for homepage link in post layout
+  back_home_text: "Volver.." # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
