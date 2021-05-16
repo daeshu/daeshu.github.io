@@ -6,7 +6,7 @@ entries:
     entries:
       - title: algunos apuntes.
 
-  - title: all posts
+  - title: publicaciones recientes
     post_list:
       limit: 5
       show_more: true
